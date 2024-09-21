@@ -1,1 +1,1 @@
-# ColorDetectation
+this project uses opencv and python for determining the color the color has generally  three format out of which HSV format is considered as best for object detecton so with this concept and some programming this project is built this project not just detemine color but also the existence of human also .
